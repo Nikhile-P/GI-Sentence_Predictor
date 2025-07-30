@@ -45,8 +45,8 @@ https://github.com/user-attachments/assets/1fcf43d1-6d66-4679-b9f3-7d1cb7be1484
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/edwin14631/GenAI-Proj.git
-cd GenAI-Proj
+git clone https://github.com/Nikhile-P/GI-Sentence_Predictor.git
+cd GI-Sentence_Predictor
 ```
 
 ### 2\. Install Dependencies
@@ -68,4 +68,5 @@ The application will be accessible at `http://localhost:8501`.
 -----
 
 📄 License
+
 This project is licensed under the MIT License.
